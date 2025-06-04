@@ -1,6 +1,6 @@
 # 🚨 Hệ Thống Cảnh Báo Khí Gas - ESP32 & Flask Server
 
-![Logo](logo.png)
+![Logo](https://github.com/zzmzvn/BTL_TPTM-NNTM/blob/main/codePy/logo.png)
 
 Dự án này giúp giám sát nồng độ khí gas trong môi trường bằng cảm biến kết nối với ESP32. Khi nồng độ vượt ngưỡng, ESP32 sẽ gửi dữ liệu đến một server Flask, nơi sẽ xử lý và gửi cảnh báo qua email có chèn logo của hệ thống.
 
