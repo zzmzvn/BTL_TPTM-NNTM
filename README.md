@@ -105,7 +105,7 @@ Email cảnh báo sẽ bao gồm:
 
 ## 📸 Hình ảnh minh hoạ
 
-<img src="soDo.png" width="200"/>
+<img src="codePy/soDo.png" width="200"/>
 
 ---
 
